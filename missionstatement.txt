@@ -1,2 +1,2 @@
 Github Mission Statement:
-Securing Software, together. Our mission is to build a global platform for developer collaboration.
+Securing Software, together. Github is how people build software. Our mission is to build a global platform for developer collaboration.
