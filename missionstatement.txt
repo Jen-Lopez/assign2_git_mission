@@ -1,1 +1,5 @@
-Github: Our mission is to build a global platform for developer collaboration.    
+Github Mission Statement
+
+Github's mission is to build a global platform for developer collaboration. From the very beginning, our focus is on the developer. We want to increase developer productivity and also encourage more people to become developers. Software development should be easy, accessible, and open for all -- which is what Github strives to do.
+
+Source: https://github.blog/2018-06-04-github-microsoft/
